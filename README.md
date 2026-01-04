@@ -1,5 +1,5 @@
 # 💫 About Me:
-Technocrats institute of technology<br>fullstack developer<br>study at tit, bhopal
+Technocrats institute of technology<br>fullstack developer<br>study at TIT, bhopal
 
 
 ## 🌐 Socials:
