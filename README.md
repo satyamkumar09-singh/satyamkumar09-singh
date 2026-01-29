@@ -1,5 +1,5 @@
 # 💫 About Me:
-Technocrats Institute of Technology<br>fullstack developer.
+Technocrats Institute of Technology <br>fullstack developer.
 
 
 ## 🌐 Socials:
